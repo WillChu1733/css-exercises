@@ -1,0 +1,14 @@
+.first {
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.second {
+  background-color: yellow;
+}
+
+.similar {
+  font-size: 28px;
+  font: Helvetica, 'Times New Roman', sans-serif;
+}
